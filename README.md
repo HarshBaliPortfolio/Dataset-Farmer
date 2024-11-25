@@ -4,4 +4,6 @@ Payroll-Org is fictional organisation with 1000 employees based in UK/NIE. Recen
 ## My Journal
 - The organisation is fictional and does not have data related to its employees. 
 - To generate this data I created a Python script that uses Faker library to generate random data and Openpyxl library to populate the Excel Workbook.
-- 
+- Once the Excel Workbook is poppulated, I selected indicators that could help me to solve the problem.
+- I used tools such as remove duplicates, functions, conditional functions, etc to clean the data.
+- Then I used pivot tables, data slicer, and graphs to create the visual dashboard.
